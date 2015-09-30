@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-conf><!-- Webapp-Root: darauf beziehen sich z.B. CSS und JS-Dateien, die eingebunden werden
+    http://papyri.uni-koeln.de:8080/apps/papyri -->
+    <webapp-root>/palaeoServer</webapp-root>
+</app-conf>
